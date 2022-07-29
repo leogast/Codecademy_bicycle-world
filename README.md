@@ -1,3 +1,3 @@
 # bicycle-world
 
-Learn the Command Line project - Codecademy
+Learn the Command - Codecademy Project
